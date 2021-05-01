@@ -1,6 +1,6 @@
 # Authod: Kgyya
 # Gitcrod: github.com/Kgyya
-# Repo: github.com/Kgyya/sms
+# Repo: github.com/Kgyya/freesms
 """
 Join Us:
 t.me/tempatconfig
