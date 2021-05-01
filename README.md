@@ -1,7 +1,7 @@
 ![Python|3.x.x](https://img.shields.io/badge/Python-3.x.x-blue.svg)
 # Free Sms From sms.payuterus.biz
 ### Screenshot:
-![menghadeh](https://github.com/Kgyya/freesms/blob/main/ss1.jpg)
+![menghadeh](https://github.com/Kgyya/freesms/blob/main/IMG_20210501_171540.JPG)
 ![mengonto](https://github.com/Kgyya/freesms/blob/main/ss2.jpg)
 ### Instalation:
 ```
